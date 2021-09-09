@@ -34,3 +34,12 @@ vignettes/*.pdf
 # Temporary files created by R markdown
 *.utf8.md
 *.knit.md
+
+# Files in data folder
+data/
+
+# Files in plot folder
+plots/
+
+# Files in the writing folder
+writing/
