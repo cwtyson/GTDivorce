@@ -43,3 +43,6 @@ plots/
 
 # Files in the writing folder
 writing/
+
+# Mac file
+.DS_Store
